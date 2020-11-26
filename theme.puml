@@ -5,42 +5,23 @@
 '
 
 '
-' One Dark colors
+' Colors
 '
 ' Foreground
 !$color_bg           = "#282c34"
 !$color_bg_light     = "#424856"
-!$color_bg_lighter   = "#5c6577"
 
 ' Background
 !$color_fg           = "#abb2bf"
-!$color_fg_dark      = "#4e5767"
-!$color_fg_light     = "#d5d8df"
 
 !$color_red          = "#e06c75"
-!$color_red_dark     = "#692d33"
-!$color_red_light    = "#e0b6ba"
-
 !$color_green        = "#98c379"
-!$color_green_dark   = "#4a6d31"
-!$color_green_light  = "#cbe1bc"
-
 !$color_yellow       = "#e5c07b"
-!$color_yellow_dark  = "#936a1d"
-!$color_yellow_light = "#f2dfbd"
-
 !$color_blue         = "#61afef"
-!$color_blue_dark    = "#0f5b99"
-!$color_blue_light   = "#b0d7f7"
-
 !$color_purple       = "#c678dd"
 !$color_teal         = "#56b6c2"
 
-!if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = $color_bg
-!endif
-
-skinparam backgroundColor $BGCOLOR
+skinparam backgroundColor $color_bg
 
 skinparam {
   '
