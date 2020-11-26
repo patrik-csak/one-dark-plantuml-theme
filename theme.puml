@@ -1,3 +1,5 @@
+@startuml
+
 '
 ' One Dark theme
 '
@@ -297,7 +299,7 @@ skinparam {
   '
   ' Database
   '
-  DatabaseBackgroundColor       $color_bg_light
+  ' DatabaseBackgroundColor
   DatabaseBorderColor           $color_fg
   ' DatabaseFontColor
   ' DatabaseFontName
@@ -316,8 +318,11 @@ skinparam {
   DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
   ' DefaultFontSize
   ' DefaultFontStyle
+
+  ' TODO: get this to work
   ' https://github.com/twbs/bootstrap/blob/v4.5.3/scss/_variables.scss#L278
-  DefaultMonospacedFontName SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+  ' DefaultMonospacedFontName SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+
   ' DefaultTextAlignment
   
 
@@ -740,7 +745,7 @@ skinparam {
   '
   ' SequenceMessageAlignment
   ' SequenceMessageTextAlignment
-  ' SequenceNewpageSeparatorColor
+  SequenceNewpageSeparatorColor  $color_fg
   
   '
   ' Sequence participant
@@ -896,3 +901,5 @@ skinparam {
   
   ' WrapWidth
 }
+
+@enduml
