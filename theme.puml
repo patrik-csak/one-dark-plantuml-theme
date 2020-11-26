@@ -736,7 +736,7 @@ skinparam {
   '
   ' Sequence lifeline
   '
-  SequenceLifeLineBackgroundColor   $color_bg_light
+  SequenceLifeLineBackgroundColor   transparent
   SequenceLifeLineBorderColor       $color_blue
   ' SequenceLifeLineBorderThickness
 
