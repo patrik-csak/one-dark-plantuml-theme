@@ -299,7 +299,7 @@ skinparam {
   '
   ' Database
   '
-  ' DatabaseBackgroundColor
+  DatabaseBackgroundColor       $color_bg_light
   DatabaseBorderColor           $color_fg
   ' DatabaseFontColor
   ' DatabaseFontName
@@ -813,22 +813,17 @@ skinparam {
   StateStartColor         $color_green
 
   '
-  ' Stereotype
+  ' Stereotype (letters in circles)
   '
-  ' StereotypeABackgroundColor
-  ' StereotypeABorderColor
-  ' StereotypeCBackgroundColor
-  '
-  ' StereotypeCBorderColor
-  '
-  ' StereotypeEBackgroundColor
-  ' StereotypeEBorderColor
-  '
-  ' StereotypeIBackgroundColor
-  ' StereotypeIBorderColor
-  '
+  StereotypeABackgroundColor   $color_blue
+  StereotypeABorderColor       $color_blue
+  StereotypeCBackgroundColor   $color_green
+  StereotypeCBorderColor       $color_green
+  StereotypeEBackgroundColor   $color_yellow
+  StereotypeEBorderColor       $color_yellow
+  StereotypeIBackgroundColor   $color_purple
+  StereotypeIBorderColor       $color_purple
   ' StereotypeNBackgroundColor
-  '
   ' StereotypeNBorderColor
   ' StereotypePosition
   
