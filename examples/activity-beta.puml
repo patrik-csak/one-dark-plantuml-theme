@@ -1,0 +1,30 @@
+@startuml
+
+!include ../theme.puml
+
+:Ready;
+:next(o)|
+:Receiving;
+split
+ :nak(i)<
+ :ack(o)>
+split again
+ :ack(i)<
+ :next(o)
+ on several lines|
+ :i := i + 1]
+ :ack(o)>
+split again
+ :err(i)<
+ :nak(o)>
+split again
+ :foo/
+split again
+ :bar\\
+split again
+ :i > 5}
+stop
+end split
+:finish;
+
+@enduml

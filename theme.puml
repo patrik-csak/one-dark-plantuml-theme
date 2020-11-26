@@ -280,7 +280,7 @@ skinparam {
   '
   ' Database
   '
-  DatabaseBackgroundColor       $color_bg_light
+  ' DatabaseBackgroundColor
   DatabaseBorderColor           $color_fg
   ' DatabaseFontColor
   ' DatabaseFontName
