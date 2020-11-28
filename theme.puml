@@ -8,18 +8,20 @@
 ' Colors
 '
 ' Foreground
-!$color_bg           = "#282c34"
-!$color_bg_light     = "#424856"
+!$color_bg       = "#282c34"
+!$color_bg_light = "#424856"
 
 ' Background
-!$color_fg           = "#abb2bf"
+!$color_fg       = "#abb2bf"
 
-!$color_red          = "#e06c75"
-!$color_green        = "#98c379"
-!$color_yellow       = "#e5c07b"
-!$color_blue         = "#61afef"
-!$color_purple       = "#c678dd"
-!$color_teal         = "#56b6c2"
+!$color_red      = "#e06c75"
+!$color_green    = "#98c379"
+!$color_yellow   = "#e5c07b"
+!$color_blue     = "#61afef"
+!$color_purple   = "#c678dd"
+!$color_teal     = "#56b6c2"
+
+!$color_primary  = $color_blue
 
 skinparam backgroundColor $color_bg
 
@@ -29,10 +31,10 @@ skinparam {
   '
   ActivityBackgroundColor        $color_bg_light
   ActivityBarColor               $color_fg
-  ActivityBorderColor            $color_blue
+  ActivityBorderColor            $color_primary
   ' ActivityBorderThickness
   ActivityDiamondBackgroundColor $color_bg_light
-  ActivityDiamondBorderColor     $color_blue
+  ActivityDiamondBorderColor     $color_primary
   ' ActivityDiamondFontColor
   ' ActivityDiamondFontName
   ' ActivityDiamondFontSize
@@ -48,7 +50,7 @@ skinparam {
   ' Actor
   '
   ActorBackgroundColor        $color_bg_light
-  ActorBorderColor            $color_blue
+  ActorBorderColor            $color_primary
   ' ActorFontColor
   ' ActorFontName
   ' ActorFontSize
@@ -97,7 +99,7 @@ skinparam {
   '
   ' Arrow
   '
-  ArrowColor $color_blue
+  ArrowColor $color_primary
   ' ArrowFontColor
   ' ArrowFontName
   ' ArrowFontSize
@@ -136,7 +138,7 @@ skinparam {
   ' Boundary
   '
   BoundaryBackgroundColor     $color_bg_light
-  BoundaryBorderColor         $color_blue
+  BoundaryBorderColor         $color_primary
   ' BoundaryFontColor
   ' BoundaryFontName
   ' BoundaryFontSize
@@ -234,7 +236,7 @@ skinparam {
   ' Collections
   '
   CollectionsBackgroundColor $color_bg_light
-  CollectionsBorderColor     $color_blue
+  CollectionsBorderColor     $color_primary
 
   ' TODO
   ' ColorArrowSeparationSpace
@@ -243,7 +245,7 @@ skinparam {
   ' Component
   '
   ComponentBackgroundColor       $color_bg_light
-  ComponentBorderColor           $color_blue
+  ComponentBorderColor           $color_primary
   ' ComponentBorderThickness
   ' ComponentFontColor
   ' ComponentFontName
@@ -267,7 +269,7 @@ skinparam {
   ' Control
   '
   ControlBackgroundColor $color_bg_light
-  ControlBorderColor     $color_blue
+  ControlBorderColor     $color_primary
   ControlFontColor       $color_fg
   ' ControlFontName
   ' ControlFontSize
@@ -349,7 +351,7 @@ skinparam {
   ' Entity
   '
   EntityBackgroundColor $color_bg_light
-  EntityBorderColor     $color_blue
+  EntityBorderColor     $color_primary
   ' EntityFontColor
   ' EntityFontName
   ' EntityFontSize
@@ -457,7 +459,7 @@ skinparam {
   ' Interface
   '
   InterfaceBackgroundColor       $color_bg_light
-  InterfaceBorderColor           $color_blue
+  InterfaceBorderColor           $color_primary
   ' InterfaceFontColor
   ' InterfaceFontName
   ' InterfaceFontSize
@@ -546,7 +548,7 @@ skinparam {
   ' ObjectAttributeFontSize
   ' ObjectAttributeFontStyle
   ObjectBackgroundColor       $color_bg_light
-  ObjectBorderColor           $color_blue
+  ObjectBorderColor           $color_primary
   ' ObjectBorderThickness
   ' ObjectFontColor
   ' ObjectFontName
@@ -586,7 +588,7 @@ skinparam {
   ' Participant
   '
   ParticipantBackgroundColor $color_bg_light
-  ParticipantBorderColor     $color_blue
+  ParticipantBorderColor     $color_primary
   ' ParticipantFontColor
   ' ParticipantFontName
   ' ParticipantFontSize
@@ -614,7 +616,7 @@ skinparam {
   ' Queue
   '
   QueueBackgroundColor       $color_bg_light
-  QueueBorderColor           $color_blue
+  QueueBorderColor           $color_primary
   ' QueueBorderThickness
   ' QueueFontColor
   ' QueueFontName
@@ -673,7 +675,7 @@ skinparam {
   ' Sequence box
   '
   SequenceBoxBackgroundColor $color_bg_light
-  SequenceBoxBorderColor     $color_blue
+  SequenceBoxBorderColor     $color_primary
   ' SequenceBoxFontColor
   ' SequenceBoxFontName
   ' SequenceBoxFontSize
@@ -718,7 +720,7 @@ skinparam {
   ' Sequence lifeline
   '
   SequenceLifeLineBackgroundColor   transparent
-  SequenceLifeLineBorderColor       $color_blue
+  SequenceLifeLineBorderColor       $color_primary
   ' SequenceLifeLineBorderThickness
 
   '
@@ -764,7 +766,7 @@ skinparam {
   ' Stack
   '
   StackBackgroundColor       $color_bg_light
-  StackBorderColor           $color_blue
+  StackBorderColor           $color_primary
   ' StackFontColor
   ' StackFontName
   ' StackFontSize
@@ -784,7 +786,7 @@ skinparam {
   ' State
   '
   StateBackgroundColor    $color_bg_light
-  StateBorderColor        $color_blue
+  StateBorderColor        $color_primary
   StateEndColor           $color_red
   ' StateFontColor
   ' StateFontName
@@ -796,8 +798,8 @@ skinparam {
   '
   ' Stereotype (letters in circles)
   '
-  StereotypeABackgroundColor   $color_blue
-  StereotypeABorderColor       $color_blue
+  StereotypeABackgroundColor   $color_primary
+  StereotypeABorderColor       $color_primary
   StereotypeCBackgroundColor   $color_green
   StereotypeCBorderColor       $color_green
   StereotypeEBackgroundColor   $color_yellow
@@ -864,7 +866,7 @@ skinparam {
   ' Usecase
   '
   UsecaseBackgroundColor       $color_bg_light
-  UsecaseBorderColor           $color_blue
+  UsecaseBorderColor           $color_primary
   ' UsecaseBorderThickness
   ' UsecaseFontColor
   ' UsecaseFontName
