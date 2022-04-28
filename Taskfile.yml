@@ -1,0 +1,43 @@
+version: '3'
+
+vars:
+  PLANTUML_JAR: plantuml.jar
+
+tasks:
+  clean:
+    cmds:
+      - rm {{.PLANTUML_JAR}}
+  plantuml:
+    deps:
+      - plantuml.jar
+    cmds:
+      - java -jar {{.PLANTUML_JAR}} {{.CLI_ARGS}}
+  plantuml.jar:
+    cmds:
+      - curl --location https://sourceforge.net/projects/plantuml/files/plantuml.jar/download --output {{.PLANTUML_JAR}}
+    generates:
+      - "{{.PLANTUML_JAR}}"
+    status:
+      - test -f {{.PLANTUML_JAR}}
+  pngs:
+    cmds:
+      - task: pngs:development
+      - task: pngs:examples
+  pngs:development:
+    cmds:
+      - task: plantuml
+        vars:
+          CLI_ARGS: development
+    sources:
+      - development/*.puml
+    generates:
+      - development/*.png
+  pngs:examples:
+    cmds:
+      - task: plantuml
+        vars:
+          CLI_ARGS: examples
+    sources:
+      - examples/*.puml
+    generates:
+      - examples/*.png
