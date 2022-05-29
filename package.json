@@ -1,0 +1,20 @@
+{
+  "name": "one-dark-plantuml-theme",
+  "version": "0.0.0",
+  "description": "One Dark PlantUML theme",
+  "homepage": "https://github.com/ptrkcsk/one-dark-plantuml-theme#readme",
+  "license": "MIT",
+  "author": "Patrik Csak <p@trikcsak.com>",
+  "bugs": {
+    "url": "https://github.com/ptrkcsk/one-dark-plantuml-theme/issues"
+  },
+  "repository": "github:ptrkcsk/one-dark-plantuml-theme",
+  "devDependencies": {
+    "@prettier/plugin-xml": "^2.2.0",
+    "prettier": "^2.6.2"
+  },
+  "engines": {
+    "node": "^16"
+  },
+  "os": ["darwin"]
+}

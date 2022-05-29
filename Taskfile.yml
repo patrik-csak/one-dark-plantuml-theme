@@ -7,6 +7,9 @@ tasks:
   clean:
     cmds:
       - rm {{.PLANTUML_JAR}}
+  format:
+    cmds:
+      - npx prettier --write .
   plantuml:
     deps:
       - plantuml.jar
