@@ -41,3 +41,8 @@ tasks:
       - examples/*.puml
     generates:
       - examples/*.png
+  svgs:development:
+    cmds:
+      - task: plantuml
+        vars:
+          CLI_ARGS: -tsvg development
