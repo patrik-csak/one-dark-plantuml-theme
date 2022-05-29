@@ -7,9 +7,21 @@ tasks:
   clean:
     cmds:
       - rm {{.PLANTUML_JAR}}
+  development/puml-theme-empty.puml:
+    cmds:
+      - node development/scripts/make-empty-theme.js
+    sources:
+      - development/scripts/make-empty-theme.js
+      - development/skinparams.svg
+    generates:
+      - development/puml-theme-empty.puml
   format:
     cmds:
       - npx prettier --write .
+      - npx xo --fix
+  lint:
+    cmds:
+      - npx xo
   plantuml:
     deps:
       - plantuml.jar
