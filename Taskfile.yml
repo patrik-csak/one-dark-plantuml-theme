@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 
 vars:
   PLANTUML_JAR: plantuml.jar

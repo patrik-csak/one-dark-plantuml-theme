@@ -16,5 +16,7 @@
   "engines": {
     "node": "^16"
   },
-  "os": ["darwin"]
+  "os": [
+    "darwin"
+  ]
 }
