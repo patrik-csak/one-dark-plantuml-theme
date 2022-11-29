@@ -282,8 +282,8 @@ skinparam {
   '
   ' Database
   '
-  ' DatabaseBackgroundColor
-  DatabaseBorderColor           $color_fg
+  DatabaseBackgroundColor       $color_bg_light
+  DatabaseBorderColor           $color_primary
   ' DatabaseFontColor
   ' DatabaseFontName
   ' DatabaseFontSize
@@ -719,7 +719,7 @@ skinparam {
   '
   ' Sequence lifeline
   '
-  SequenceLifeLineBackgroundColor   transparent
+  SequenceLifeLineBackgroundColor   $color_bg
   SequenceLifeLineBorderColor       $color_primary
   ' SequenceLifeLineBorderThickness
 

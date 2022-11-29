@@ -2,27 +2,20 @@
 
 !include ../theme.puml
 
-Alice -> Bob: Authentication Request
-
-alt successful case
-
-    Bob -> Alice: Authentication Accepted
-
-else some kind of failure
-
-    Bob -> Alice: Authentication Failure
-    group My own label
-    Alice -> Log : Log attack start
-        loop 1000 times
-            Alice -> Bob: DNS Attack
-        end
-    Alice -> Log : Log attack end
-    end
-
-else Another type of failure
-
-   Bob -> Alice: Please repeat
-
-end
+participant Participant as Foo
+actor       Actor       as Foo1
+boundary    Boundary    as Foo2
+control     Control     as Foo3
+entity      Entity      as Foo4
+database    Database    as Foo5
+collections Collections as Foo6
+queue       Queue       as Foo7
+Foo -> Foo1 : To actor
+Foo -> Foo2 : To boundary
+Foo -> Foo3 : To control
+Foo -> Foo4 : To entity
+Foo -> Foo5 : To database
+Foo -> Foo6 : To collections
+Foo -> Foo7: To queue
 
 @enduml
