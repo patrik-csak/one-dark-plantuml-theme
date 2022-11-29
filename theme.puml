@@ -257,9 +257,8 @@ skinparam {
   ' ComponentStereotypeFontSize
   ' ComponentStereotypeFontStyle
 
-  ' TODO
   ' ComponentStyle
-  
+
   '
   ' Condition styles
   '
