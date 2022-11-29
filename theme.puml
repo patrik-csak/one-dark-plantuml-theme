@@ -65,7 +65,7 @@ skinparam {
   ' Agent
   '
   AgentBackgroundColor       $color_bg_light
-  AgentBorderColor           $color_fg
+  AgentBorderColor           $color_primary
   ' AgentBorderThickness
   ' AgentFontColor
   ' AgentFontName
@@ -114,7 +114,7 @@ skinparam {
   ' Artifact
   '
   ArtifactBackgroundColor     $color_bg_light
-  ArtifactBorderColor         $color_fg
+  ArtifactBorderColor         $color_primary
   ' ArtifactFontColor
   ' ArtifactFontName
   ' ArtifactFontSize
@@ -166,7 +166,7 @@ skinparam {
   ' Card
   '
   CardBackgroundColor     $color_bg_light
-  CardBorderColor         $color_fg
+  CardBorderColor         $color_primary
   ' CardBorderThickness
   ' CardFontColor
   ' CardFontName
@@ -222,8 +222,8 @@ skinparam {
   '
   ' Cloud
   '
-  ' CloudBackgroundColor
-  CloudBorderColor     $color_fg
+  CloudBackgroundColor        $color_bg_light
+  CloudBorderColor            $color_primary
   ' CloudFontColor
   ' CloudFontName
   ' CloudFontSize
@@ -371,7 +371,7 @@ skinparam {
   ' File
   '
   FileBackgroundColor $color_bg_light
-  FileBorderColor     $color_fg
+  FileBorderColor     $color_primary
   ' FileFontColor
   ' FileFontName
   ' FileFontSize
@@ -390,8 +390,8 @@ skinparam {
   '
   ' Folder
   '
-  ' FolderBackgroundColor 
-  FolderBorderColor       $color_fg
+  FolderBackgroundColor $color_bg_light
+  FolderBorderColor     $color_primary
   ' FolderFontColor
   ' FolderFontName
   ' FolderFontSize
@@ -415,8 +415,8 @@ skinparam {
   '
   ' Frame
   '
-  ' FrameBackgroundColor
-  FrameBorderColor           $color_fg
+  FrameBackgroundColor       $color_bg_light
+  FrameBorderColor           $color_primary
   ' FrameFontColor
   ' FrameFontName
   ' FrameFontSize
@@ -425,6 +425,12 @@ skinparam {
   ' FrameStereotypeFontName
   ' FrameStereotypeFontSize
   ' FrameStereotypeFontStyle
+
+  '
+  ' Hexagon
+  '
+  HexagonBackgroundColor $color_bg_light
+  HexagonBorderColor     $color_primary
 
   ' GenericDisplay
   ' Guillemet
@@ -514,8 +520,8 @@ skinparam {
   '
   ' Node
   '
-  ' NodeBackgroundColor
-  NodeBorderColor           $color_fg
+  NodeBackgroundColor       $color_bg_light
+  NodeBorderColor           $color_primary
   ' NodeFontColor
   ' NodeFontName
   ' NodeFontSize
@@ -563,7 +569,7 @@ skinparam {
   ' Package
   '
   PackageBackgroundColor       $color_bg
-  PackageBorderColor           $color_fg
+  PackageBorderColor           $color_primary
   ' PackageBorderThickness
   ' PackageFontColor
   ' PackageFontName
@@ -611,6 +617,12 @@ skinparam {
   ' PartitionFontStyle
   
   ' PathHoverColor
+
+  '
+  ' Person
+  '
+  PersonBackgroundColor $color_bg_light
+  PersonBorderColor     $color_primary
   
   '
   ' Queue
@@ -632,8 +644,8 @@ skinparam {
   '
   ' Rectangle
   '
-  ' RectangleBackgroundColor
-  RectangleBorderColor           $color_fg
+  RectangleBackgroundColor       $color_bg_light
+  RectangleBorderColor           $color_primary
   ' RectangleBorderThickness
   ' RectangleFontColor
   ' RectangleFontName
