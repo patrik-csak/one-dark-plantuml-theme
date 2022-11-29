@@ -45,6 +45,7 @@ skinparam {
   ' ActivityFontSize
   ' ActivityFontStyle
   ActivityStartColor             $color_green
+  ActivityStopColor              $color_red
 
   '
   ' Actor

@@ -20,9 +20,9 @@ Bob->Alice : hello
 
 ## Examples
 
-| Activity (Beta) | Activity (Legacy) | Class | Component |
-|:---:|:---:|:---:|:---:|
-| ![PlantUML Beta Activity diagram with One Dark theme](examples/activity-beta.png) | ![PlantUML Legacy Activity diagram with One Dark theme](examples/activity-legacy.png) | ![PlantUML Class diagram with One Dark Theme](examples/class.png) | ![Component PlantUML diagram with One Dark theme](examples/component.png) |
+| Activity | Class | Component |
+|:---:|:---:|:---:|
+| ![PlantUML Activity diagram with One Dark theme](examples/activity.png) | ![PlantUML Class diagram with One Dark Theme](examples/class.png) | ![Component PlantUML diagram with One Dark theme](examples/component.png) |
 
 | Sequence | State | Use case |
 |:---:|:---:|:---:|
