@@ -853,25 +853,25 @@ skinparam {
   ' SwimlaneWrapTitleWidth
 
   ' TabSize
+
+  '
+  ' Timing
   '
   ' TimingFontColor
-  '
   ' TimingFontName
   ' TimingFontSize
-  '
   ' TimingFontStyle
+
+  '
+  ' Title
+  '
   ' TitleBackgroundColor
-  '
   ' TitleBorderColor
-  '
   ' TitleBorderRoundCorner
   ' TitleBorderThickness
-  '
   ' TitleFontColor
   ' TitleFontName
-  '
   ' TitleFontSize
-  '
   ' TitleFontStyle
 
   '
