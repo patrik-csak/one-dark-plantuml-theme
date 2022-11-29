@@ -179,7 +179,7 @@ skinparam {
   '
   ' Circled character (in class header)
   '
-  CircledCharacterFontColor $color_bg
+  ' CircledCharacterFontColor
   ' CircledCharacterFontName
   ' CircledCharacterFontSize
   ' CircledCharacterFontStyle
@@ -562,7 +562,7 @@ skinparam {
   '
   ' Package
   '
-  ' PackageBackgroundColor
+  PackageBackgroundColor       $color_bg
   PackageBorderColor           $color_fg
   ' PackageBorderThickness
   ' PackageFontColor
@@ -796,16 +796,16 @@ skinparam {
   StateStartColor         $color_green
 
   '
-  ' Stereotype (letters in circles)
+  ' Stereotype
   '
-  StereotypeABackgroundColor   $color_primary
-  StereotypeABorderColor       $color_primary
-  StereotypeCBackgroundColor   $color_green
-  StereotypeCBorderColor       $color_green
-  StereotypeEBackgroundColor   $color_yellow
-  StereotypeEBorderColor       $color_yellow
-  StereotypeIBackgroundColor   $color_purple
-  StereotypeIBorderColor       $color_purple
+  ' StereotypeABackgroundColor
+  ' StereotypeABorderColor
+  ' StereotypeCBackgroundColor
+  ' StereotypeCBorderColor
+  ' StereotypeEBackgroundColor
+  ' StereotypeEBorderColor
+  ' StereotypeIBackgroundColor
+  ' StereotypeIBorderColor
   ' StereotypeNBackgroundColor
   ' StereotypeNBorderColor
   ' StereotypePosition
