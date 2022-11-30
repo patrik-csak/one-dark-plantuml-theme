@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="656px" preserveAspectRatio="none" style="width:376px;height:656px;background:#282C34;" version="1.1" viewBox="0 0 376 656" width="376px" zoomAndPan="magnify"><defs/><g><g id="elem_choice1"><polygon fill="#424856" points="250.5,118,262.5,130,250.5,142,238.5,130,250.5,118" style="stroke:#61AFEF;stroke-width:0.5;"/></g><rect fill="#ABB2BF" height="8" style="stroke:none;stroke-width:1.0;" width="80" x="108.5" y="240"/><rect fill="#ABB2BF" height="8" style="stroke:none;stroke-width:1.0;" width="80" x="120.5" y="509"/><ellipse cx="313.5" cy="244" fill="none" rx="10" ry="10" style="stroke:#E06C75;stroke-width:1.0;"/><ellipse cx="314" cy="244.5" fill="#E06C75" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><ellipse cx="250.5" cy="16" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="State1"><rect fill="#424856" height="50" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="63" x="7" y="488"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="7" x2="70" y1="514.4883" y2="514.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="43" x="17" y="506.5352">State1</text></g><g id="State2"><rect fill="#424856" height="50" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="63" x="132" y="346"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="132" x2="195" y1="372.4883" y2="372.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="43" x="142" y="364.5352">State2</text></g><ellipse cx="99.5" cy="640" fill="none" rx="10" ry="10" style="stroke:#E06C75;stroke-width:1.0;"/><ellipse cx="100" cy="640.5" fill="#E06C75" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[214e084d2b19a49893844947d68dd496]
+link *start to choice1--><g id="link_*start_choice1"><path d="M250.5,26.17 C250.5,44.69 250.5,86.9 250.5,111.08 " fill="none" id="*start-to-choice1" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="250.5,115.88,254.5,106.88,250.5,110.88,246.5,106.88,250.5,115.88" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="63" x="251.5" y="69.5684">from start</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="58" x="254" y="84.8789">to choice</text></g><!--MD5=[bb8095a97b385e59629c841bbf31bd2f]
+link choice1 to fork1--><g id="link_choice1_fork1"><path d="M239.67,131.56 C217.8,133.33 168.67,140.78 147.5,172 C134.77,190.76 140.85,219.21 145.28,233.74 " fill="none" id="choice1-to-fork1" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="146.76,238.22,147.7264,228.4187,145.1874,233.4737,140.1324,230.9348,146.76,238.22" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="75" x="148.5" y="185.5684">from choice</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="43" x="164.5" y="200.8789">to fork</text></g><!--MD5=[63941b30aa712ee08e65b58653f1ad96]
+link choice1 to join2--><g id="link_choice1_join2"><path d="M252.49,140.57 C260.52,181.65 287.34,345.91 228.5,458 C216.39,481.06 189.65,497.59 173.55,505.9 " fill="none" id="choice1-to-join2" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="169.5,507.92,179.3409,507.5231,173.9835,505.7068,175.7997,500.3495,169.5,507.92" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="75" x="266.5" y="297.5684">from choice</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="41" x="283.5" y="312.8789">to join</text></g><!--MD5=[f20723a393c46fdc855fed47db3d0d5e]
+link choice1 to end3--><g id="link_choice1_end3"><path d="M254.81,138.22 C259.66,146.39 267.75,160.09 274.5,172 C285.67,191.69 298.22,214.7 305.99,229.06 " fill="none" id="choice1-to-end3" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="308.29,233.32,307.5412,223.4996,305.9178,228.9186,300.4989,227.2952,308.29,233.32" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="75" x="293.5" y="185.5684">from choice</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="40" x="311" y="200.8789">to end</text></g><!--MD5=[00d8fc525376b5b0e80514b34f45ef53]
+link fork1 to State1--><g id="link_fork1_State1"><path d="M143.31,248.45 C126.54,259.93 73.71,298.77 52.5,346 C32.76,389.96 32.78,447.02 35.21,481.51 " fill="none" id="fork1-to-State1" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="35.57,486.16,38.8639,476.8783,35.1843,481.1749,30.8877,477.4953,35.57,486.16" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="60" x="53.5" y="368.5684">from fork</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="48" x="59.5" y="383.8789">to state</text></g><!--MD5=[de53a758db12baff97dee0e88ad69f05]
+link fork1 to State2--><g id="link_fork1_State2"><path d="M148.17,248.23 C147.5,254.9 146.01,270.7 145.5,284 C144.95,298.21 143.22,301.96 145.5,316 C146.79,323.93 149.07,332.27 151.59,339.95 " fill="none" id="fork1-to-State2" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="153.06,344.26,153.9378,334.4503,151.4446,339.5281,146.3668,337.035,153.06,344.26" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="60" x="146.5" y="297.5684">from fork</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="48" x="152.5" y="312.8789">to state</text></g><!--MD5=[7360e2f0025937dcd42ede312e1ade30]
+link State2 to join2--><g id="link_State2_join2"><path d="M160.21,396.41 C159.11,405.66 158.04,416.3 157.5,426 C155.97,453.69 158.23,486.44 159.6,502.35 " fill="none" id="State2-to-join2" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="160.04,507.21,163.2015,497.8824,159.5835,502.2309,155.2349,498.6128,160.04,507.21" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="65" x="158.5" y="439.5684">from state</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="41" x="170.5" y="454.8789">to join</text></g><!--MD5=[ca1046a354e184ac9d197a073cc82934]
+link State1 to *end--><g id="link_State1_*end"><path d="M36.04,538.18 C35.32,556.33 36.84,581.19 47.5,600 C55.92,614.85 72.54,625.76 84.73,632.21 " fill="none" id="State1-to-*end" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="88.96,634.34,82.738,626.7054,84.4994,632.0811,79.1237,633.8425,88.96,634.34" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="65" x="48.5" y="581.5684">from state</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="40" x="61" y="596.8789">to end</text></g><!--MD5=[c2b9cfffed91461cd51190088bf670d0]
+link join2 to *end--><g id="link_join2_*end"><path d="M158.87,517.34 C151.4,532.64 120.27,596.43 106.32,625.03 " fill="none" id="join2-to-*end" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="104.28,629.2,111.8264,622.8714,106.4761,624.7081,104.6394,619.3577,104.28,629.2" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="58" x="135.5" y="581.5684">from join</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="40" x="144.5" y="596.8789">to end</text></g><!--MD5=[fe950b7eff65267bea769df2737cf039]
+@startuml
+
+!include ../theme.puml
+
+state choice1 <<choice>>
+state fork1   <<fork>>
+state join2   <<join>>
+state end3    <<end>>
+
+[*]     - -> choice1 : from start\nto choice
+choice1 - -> fork1   : from choice\nto fork
+choice1 - -> join2   : from choice\nto join
+choice1 - -> end3    : from choice\nto end
+
+fork1   - - -> State1 : from fork\nto state
+fork1   - -> State2  : from fork\nto state
+
+State2  - -> join2   : from state\nto join
+State1  - -> [*]     : from state\nto end
+
+join2   - -> [*]     : from join\nto end
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+skinparam backgroundColor #282c34
+
+skinparam {
+  ActivityBackgroundColor        #424856
+  ActivityBarColor               #abb2bf
+  ActivityBorderColor            #61afef
+  ActivityDiamondBackgroundColor #424856
+  ActivityDiamondBorderColor     #61afef
+  ActivityEndColor               #e06c75
+  ActivityStartColor             #98c379
+  ActivityStopColor              #e06c75
+
+  ActorBackgroundColor        #424856
+  ActorBorderColor            #61afef
+  ActorStereotypeFontColor    #abb2bf
+
+  AgentBackgroundColor       #424856
+  AgentBorderColor           #61afef
+
+
+  ArrowColor #61afef
+
+  ArtifactBackgroundColor     #424856
+  ArtifactBorderColor         #61afef
+
+  BackgroundColor #282c34
+
+
+  BoundaryBackgroundColor     #424856
+  BoundaryBorderColor         #61afef
+  BoundaryStereotypeFontColor #abb2bf
+
+
+  CaptionFontColor #abb2bf
+
+  CardBackgroundColor     #424856
+  CardBorderColor         #61afef
+
+
+
+  ClassBackgroundColor   #424856
+  ClassBorderColor       #abb2bf
+
+
+
+  CloudBackgroundColor        #424856
+  CloudBorderColor            #61afef
+
+  CollectionsBackgroundColor #424856
+  CollectionsBorderColor     #61afef
+
+
+  ComponentBackgroundColor       #424856
+  ComponentBorderColor           #61afef
+
+
+
+  ControlBackgroundColor #424856
+  ControlBorderColor     #61afef
+  ControlFontColor       #abb2bf
+  ControlStereotypeFontColor #abb2bf
+
+  DatabaseBackgroundColor       #424856
+  DatabaseBorderColor           #61afef
+
+  DefaultFontColor #abb2bf
+  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+
+
+
+
+
+
+
+  EntityBackgroundColor #424856
+  EntityBorderColor     #61afef
+
+
+  FileBackgroundColor #424856
+  FileBorderColor     #61afef
+
+
+
+  FolderBackgroundColor #424856
+  FolderBorderColor     #61afef
+
+
+  FrameBackgroundColor       #424856
+  FrameBorderColor           #61afef
+
+  HexagonBackgroundColor #424856
+  HexagonBorderColor     #61afef
+
+
+  InterfaceBackgroundColor       #424856
+  InterfaceBorderColor           #61afef
+
+  LegendBackgroundColor   #424856
+  LegendBorderColor       #abb2bf
+
+
+  NodeBackgroundColor       #424856
+  NodeBorderColor           #61afef
+
+
+  NoteBackgroundColor   #e5c07b
+  NoteBorderColor       #282c34
+  NoteFontColor         #282c34
+
+  ObjectBackgroundColor       #424856
+  ObjectBorderColor           #61afef
+
+  PackageBackgroundColor       #282c34
+  PackageBorderColor           #61afef
+
+
+  ParticipantBackgroundColor #424856
+  ParticipantBorderColor     #61afef
+
+  PartitionBackgroundColor transparent
+  PartitionBorderColor     #abb2bf
+
+
+  PersonBackgroundColor #424856
+  PersonBorderColor     #61afef
+
+  QueueBackgroundColor       #424856
+  QueueBorderColor           #61afef
+
+
+  RectangleBackgroundColor       #424856
+  RectangleBorderColor           #61afef
+
+
+
+
+  SequenceBoxBackgroundColor #424856
+  SequenceBoxBorderColor     #61afef
+
+
+  SequenceDividerBackgroundColor   #424856
+  SequenceDividerBorderColor       #abb2bf
+
+  SequenceGroupBackgroundColor       #424856
+  SequenceGroupBorderColor           #abb2bf
+
+  SequenceLifeLineBackgroundColor   #282c34
+  SequenceLifeLineBorderColor       #61afef
+
+  SequenceNewpageSeparatorColor  #abb2bf
+
+
+  SequenceReferenceBackgroundColor        transparent
+  SequenceReferenceBorderColor            #abb2bf
+  SequenceReferenceHeaderBackgroundColor #424856
+
+
+  Shadowing false
+
+  StackBackgroundColor       #424856
+  StackBorderColor           #61afef
+
+
+  StateBackgroundColor    #424856
+  StateBorderColor        #61afef
+  StateEndColor           #e06c75
+  StateStartColor         #98c379
+
+
+  StorageBackgroundColor #424856
+  StorageBorderColor     #abb2bf
+
+
+  SwimlaneBorderColor            #abb2bf
+
+
+
+
+  UsecaseBackgroundColor       #424856
+  UsecaseBorderColor           #61afef
+
+}
+
+
+state choice1 <<choice>>
+state fork1   <<fork>>
+state join2   <<join>>
+state end3    <<end>>
+
+[*]     - -> choice1 : from start\nto choice
+choice1 - -> fork1   : from choice\nto fork
+choice1 - -> join2   : from choice\nto join
+choice1 - -> end3    : from choice\nto end
+
+fork1   - - -> State1 : from fork\nto state
+fork1   - -> State2  : from fork\nto state
+
+State2  - -> join2   : from state\nto join
+State1  - -> [*]     : from state\nto end
+
+join2   - -> [*]     : from join\nto end
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 11:12:26 PDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

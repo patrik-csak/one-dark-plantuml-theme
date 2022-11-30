@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="442px" preserveAspectRatio="none" style="width:778px;height:442px;background:#282C34;" version="1.1" viewBox="0 0 778 442" width="778px" zoomAndPan="magnify"><defs/><g><!--MD5=[b4fa10df80476353258f72a232547d63]
+class AbstractList--><g id="elem_AbstractList"><rect codeLine="4" fill="#424856" height="48" id="AbstractList" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="112" x="289" y="205.5"/><ellipse cx="304" cy="221.5" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M304.1133,216.8481 L302.9595,221.9199 L305.2754,221.9199 Z M302.6191,214.6069 L305.6157,214.6069 L308.9609,227 L306.5122,227 L305.7485,223.937 L302.4697,223.937 L301.7227,227 L299.2739,227 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="80" x="318" y="226.791">AbstractList</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="290" x2="400" y1="237.5" y2="237.5"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="290" x2="400" y1="245.5" y2="245.5"/></g><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
+class AbstractCollection--><g id="elem_AbstractCollection"><rect codeLine="5" fill="#424856" height="48" id="AbstractCollection" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="158" x="7" y="205.5"/><ellipse cx="22" cy="221.5" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M22.1133,216.8481 L20.9595,221.9199 L23.2754,221.9199 Z M20.6191,214.6069 L23.6157,214.6069 L26.9609,227 L24.5122,227 L23.7485,223.937 L20.4697,223.937 L19.7227,227 L17.2739,227 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="126" x="36" y="226.791">AbstractCollection</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="8" x2="164" y1="237.5" y2="237.5"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="8" x2="164" y1="245.5" y2="245.5"/></g><!--MD5=[3d4177ac58b4411586d067f34e84928f]
+class List--><g id="elem_List"><rect codeLine="6" fill="#424856" height="48" id="List" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="55" x="275.5" y="31.5"/><ellipse cx="290.5" cy="47.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M286.4277,43.2651 L286.4277,41.1069 L293.8071,41.1069 L293.8071,43.2651 L291.3418,43.2651 L291.3418,51.3418 L293.8071,51.3418 L293.8071,53.5 L286.4277,53.5 L286.4277,51.3418 L288.8931,51.3418 L288.8931,43.2651 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="23" x="304.5" y="52.791">List</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="276.5" x2="329.5" y1="63.5" y2="63.5"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="276.5" x2="329.5" y1="71.5" y2="71.5"/></g><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><g id="elem_Collection"><rect codeLine="7" fill="#424856" height="48" id="Collection" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="101" x="59.5" y="31.5"/><ellipse cx="74.5" cy="47.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M70.4277,43.2651 L70.4277,41.1069 L77.8071,41.1069 L77.8071,43.2651 L75.3418,43.2651 L75.3418,51.3418 L77.8071,51.3418 L77.8071,53.5 L70.4277,53.5 L70.4277,51.3418 L72.8931,51.3418 L72.8931,43.2651 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="69" x="88.5" y="52.791">Collection</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="60.5" x2="159.5" y1="63.5" y2="63.5"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="60.5" x2="159.5" y1="71.5" y2="71.5"/></g><!--MD5=[ab8871ed637f40707b866ba6597734bc]
+class ArrayList--><g id="elem_ArrayList"><rect codeLine="16" fill="#424856" height="80.9766" id="ArrayList" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="156" x="267" y="355"/><ellipse cx="310.8" cy="371" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M313.7731,376.6431 Q313.1921,376.9419 312.5529,377.0913 Q311.9138,377.2407 311.2082,377.2407 Q308.7014,377.2407 307.3815,375.5889 Q306.0617,373.937 306.0617,370.8159 Q306.0617,367.6865 307.3815,366.0347 Q308.7014,364.3828 311.2082,364.3828 Q311.9138,364.3828 312.5612,364.5322 Q313.2087,364.6816 313.7731,364.9805 L313.7731,367.7031 Q313.1423,367.1221 312.5488,366.8523 Q311.9553,366.5825 311.3244,366.5825 Q309.9797,366.5825 309.2949,367.6492 Q308.6101,368.7158 308.6101,370.8159 Q308.6101,372.9077 309.2949,373.9744 Q309.9797,375.041 311.3244,375.041 Q311.9553,375.041 312.5488,374.7712 Q313.1423,374.5015 313.7731,373.9204 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="60" x="331.2" y="376.291">ArrayList</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="268" x2="422" y1="387" y2="387"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="144" x="273" y="404.5352">Object[] elementData</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="268" x2="422" y1="411.4883" y2="411.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="37" x="273" y="429.0234">size()</text></g><!--MD5=[15b68e006199004da79ea2a4d117d8e9]
+class TimeUnit--><g id="elem_TimeUnit"><rect codeLine="21" fill="#424856" height="97.4648" id="TimeUnit" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="94" x="483" y="7"/><ellipse cx="498" cy="23" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M502.1143,29 L494.3945,29 L494.3945,16.6069 L502.1143,16.6069 L502.1143,18.7651 L496.8433,18.7651 L496.8433,21.438 L501.6162,21.438 L501.6162,23.5962 L496.8433,23.5962 L496.8433,26.8418 L502.1143,26.8418 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="62" x="512" y="28.291">TimeUnit</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="484" x2="576" y1="39" y2="39"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="37" x="489" y="56.5352">DAYS</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="48" x="489" y="73.0234">HOURS</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="61" x="489" y="89.5117">MINUTES</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="484" x2="576" y1="96.4648" y2="96.4648"/></g><!--MD5=[0c8287f799745f7b534bf75518604c1e]
+class SuppressWarnings--><g id="elem_SuppressWarnings"><rect codeLine="27" fill="#424856" height="48" id="SuppressWarnings" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="159" x="612.5" y="31.5"/><ellipse cx="627.5" cy="47.5" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M629.5767,47.9761 Q629.5767,47.0381 629.1533,46.5068 Q628.73,45.9756 627.9912,45.9756 Q627.2524,45.9756 626.8333,46.5068 Q626.4141,47.0381 626.4141,47.9761 Q626.4141,48.9224 626.8333,49.4536 Q627.2524,49.9849 627.9912,49.9849 Q628.73,49.9849 629.1533,49.4536 Q629.5767,48.9224 629.5767,47.9761 Z M631.1206,51.3794 L629.4937,51.3794 L629.4937,50.6987 Q629.1782,51.1387 628.7507,51.342 Q628.3232,51.5454 627.7256,51.5454 Q626.3643,51.5454 625.53,50.5659 Q624.6958,49.5864 624.6958,47.9761 Q624.6958,46.374 625.5259,45.3987 Q626.356,44.4233 627.7256,44.4233 Q628.3149,44.4233 628.7632,44.6267 Q629.2114,44.8301 629.4937,45.2202 L629.4937,44.8799 Q629.4937,43.751 628.8752,43.1367 Q628.2568,42.5225 627.1113,42.5225 Q625.3848,42.5225 624.2932,44.0415 Q623.2017,45.5605 623.2017,47.9927 Q623.2017,50.541 624.4634,52.0476 Q625.7251,53.5542 627.8252,53.5542 Q628.4893,53.5542 629.1118,53.3591 Q629.7344,53.1641 630.3071,52.7739 L631.0708,54.2349 Q630.3984,54.6914 629.6057,54.9197 Q628.813,55.1479 627.9082,55.1479 Q625.0029,55.1479 623.2764,53.2139 Q621.5498,51.2798 621.5498,47.9927 Q621.5498,44.7803 623.1021,42.8503 Q624.6543,40.9204 627.2109,40.9204 Q629.0205,40.9204 630.0706,42.012 Q631.1206,43.1035 631.1206,44.9878 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="127" x="641.5" y="52.791">SuppressWarnings</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="613.5" x2="770.5" y1="63.5" y2="63.5"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="613.5" x2="770.5" y1="71.5" y2="71.5"/></g><!--MD5=[faebc81c07309c527f2fda51bf6b78ab]
+class Annotation--><g id="elem_Annotation"><rect codeLine="29" fill="#424856" height="97.4648" id="Annotation" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="188" x="436" y="181"/><ellipse cx="487.25" cy="197" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M489.3267,197.4761 Q489.3267,196.5381 488.9033,196.0068 Q488.48,195.4756 487.7412,195.4756 Q487.0024,195.4756 486.5833,196.0068 Q486.1641,196.5381 486.1641,197.4761 Q486.1641,198.4224 486.5833,198.9536 Q487.0024,199.4849 487.7412,199.4849 Q488.48,199.4849 488.9033,198.9536 Q489.3267,198.4224 489.3267,197.4761 Z M490.8706,200.8794 L489.2437,200.8794 L489.2437,200.1987 Q488.9282,200.6387 488.5007,200.842 Q488.0732,201.0454 487.4756,201.0454 Q486.1143,201.0454 485.28,200.0659 Q484.4458,199.0864 484.4458,197.4761 Q484.4458,195.874 485.2759,194.8987 Q486.106,193.9233 487.4756,193.9233 Q488.0649,193.9233 488.5132,194.1267 Q488.9614,194.3301 489.2437,194.7202 L489.2437,194.3799 Q489.2437,193.251 488.6252,192.6367 Q488.0068,192.0225 486.8613,192.0225 Q485.1348,192.0225 484.0432,193.5415 Q482.9517,195.0605 482.9517,197.4927 Q482.9517,200.041 484.2134,201.5476 Q485.4751,203.0542 487.5752,203.0542 Q488.2393,203.0542 488.8618,202.8591 Q489.4844,202.6641 490.0571,202.2739 L490.8208,203.7349 Q490.1484,204.1914 489.3557,204.4197 Q488.563,204.6479 487.6582,204.6479 Q484.7529,204.6479 483.0264,202.7139 Q481.2998,200.7798 481.2998,197.4927 Q481.2998,194.2803 482.8521,192.3503 Q484.4043,190.4204 486.9609,190.4204 Q488.7705,190.4204 489.8206,191.512 Q490.8706,192.6035 490.8706,194.4878 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="77" x="507.75" y="202.291">Annotation</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="437" x2="623" y1="213" y2="213"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="176" x="442" y="230.5352">annotation with members</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="437" x2="623" y1="237.4883" y2="237.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="78" x="442" y="255.0234">String foo()</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="78" x="442" y="271.5117">String bar()</text></g><!--MD5=[00308d07b6a5721fb0cf5861877e6652]
+reverse link List to AbstractList--><g id="link_List_AbstractList"><path codeLine="9" d="M313.66,100.16 C321.81,133.53 332.73,178.24 339.29,205.12 " fill="none" id="List-backto-AbstractList" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="306.97,102.26,309.02,81.17,320.57,98.94,306.97,102.26" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="76" x="327" y="147.5684">AList to List</text></g><!--MD5=[1822909749df1453bdd84de7a60a3406]
+reverse link Collection to AbstractCollection--><g id="link_Collection_AbstractCollection"><path codeLine="10" d="M103.84,100.64 C99.19,133.96 93,178.37 89.26,205.12 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="96.86,100.04,106.55,81.2,110.72,101.97,96.86,100.04" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="80" x="100" y="147.5684">AColl to Coll</text></g><!--MD5=[0159284274f96a472eb2618ad803aaca]
+reverse link Collection to List--><g id="link_Collection_List"><path codeLine="12" d="M182.04,55.5 C214.43,55.5 250.76,55.5 275.07,55.5 " fill="none" id="Collection-backto-List" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="182.47,62.5,162.47,55.5,182.47,48.5,182.47,62.5" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="69" x="183.5" y="49.0684">List to Coll</text></g><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
+reverse link AbstractCollection to AbstractList--><g id="link_AbstractCollection_AbstractList"><path codeLine="13" d="M186.58,229.5 C221.25,229.5 258.84,229.5 288.69,229.5 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="186.98,236.5,166.98,229.5,186.98,222.5,186.98,236.5" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="87" x="183.5" y="223.0684">AList to AColl</text></g><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
+reverse link AbstractList to ArrayList--><g id="link_AbstractList_ArrayList"><path codeLine="14" d="M345,275.19 C345,300 345,330.58 345,354.58 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="338,275.51,345,255.51,352,275.51,338,275.51" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="90" x="346" y="321.5684">ArList to AList</text></g><!--MD5=[988b4d3310971702fd9b02836bcc319c]
+@startuml
+
+!include ../theme.puml
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList : AList to List
+Collection <|- - AbstractCollection : AColl to Coll
+
+Collection <|- List : List to Coll
+AbstractCollection <|- AbstractList : AList to AColl
+AbstractList <|- - ArrayList : ArList to AList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+annotation Annotation {
+  annotation with members
+  String foo()
+  String bar()
+}
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+skinparam backgroundColor #282c34
+
+skinparam {
+  ActivityBackgroundColor        #424856
+  ActivityBarColor               #abb2bf
+  ActivityBorderColor            #61afef
+  ActivityDiamondBackgroundColor #424856
+  ActivityDiamondBorderColor     #61afef
+  ActivityEndColor               #e06c75
+  ActivityStartColor             #98c379
+  ActivityStopColor              #e06c75
+
+  ActorBackgroundColor        #424856
+  ActorBorderColor            #61afef
+  ActorStereotypeFontColor    #abb2bf
+
+  AgentBackgroundColor       #424856
+  AgentBorderColor           #61afef
+
+
+  ArrowColor #61afef
+
+  ArtifactBackgroundColor     #424856
+  ArtifactBorderColor         #61afef
+
+  BackgroundColor #282c34
+
+
+  BoundaryBackgroundColor     #424856
+  BoundaryBorderColor         #61afef
+  BoundaryStereotypeFontColor #abb2bf
+
+
+  CaptionFontColor #abb2bf
+
+  CardBackgroundColor     #424856
+  CardBorderColor         #61afef
+
+
+
+  ClassBackgroundColor   #424856
+  ClassBorderColor       #abb2bf
+
+
+
+  CloudBackgroundColor        #424856
+  CloudBorderColor            #61afef
+
+  CollectionsBackgroundColor #424856
+  CollectionsBorderColor     #61afef
+
+
+  ComponentBackgroundColor       #424856
+  ComponentBorderColor           #61afef
+
+
+
+  ControlBackgroundColor #424856
+  ControlBorderColor     #61afef
+  ControlFontColor       #abb2bf
+  ControlStereotypeFontColor #abb2bf
+
+  DatabaseBackgroundColor       #424856
+  DatabaseBorderColor           #61afef
+
+  DefaultFontColor #abb2bf
+  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+
+
+
+
+
+
+
+  EntityBackgroundColor #424856
+  EntityBorderColor     #61afef
+
+
+  FileBackgroundColor #424856
+  FileBorderColor     #61afef
+
+
+
+  FolderBackgroundColor #424856
+  FolderBorderColor     #61afef
+
+
+  FrameBackgroundColor       #424856
+  FrameBorderColor           #61afef
+
+  HexagonBackgroundColor #424856
+  HexagonBorderColor     #61afef
+
+
+  InterfaceBackgroundColor       #424856
+  InterfaceBorderColor           #61afef
+
+  LegendBackgroundColor   #424856
+  LegendBorderColor       #abb2bf
+
+
+  NodeBackgroundColor       #424856
+  NodeBorderColor           #61afef
+
+
+  NoteBackgroundColor   #e5c07b
+  NoteBorderColor       #282c34
+  NoteFontColor         #282c34
+
+  ObjectBackgroundColor       #424856
+  ObjectBorderColor           #61afef
+
+  PackageBackgroundColor       #282c34
+  PackageBorderColor           #61afef
+
+
+  ParticipantBackgroundColor #424856
+  ParticipantBorderColor     #61afef
+
+  PartitionBackgroundColor transparent
+  PartitionBorderColor     #abb2bf
+
+
+  PersonBackgroundColor #424856
+  PersonBorderColor     #61afef
+
+  QueueBackgroundColor       #424856
+  QueueBorderColor           #61afef
+
+
+  RectangleBackgroundColor       #424856
+  RectangleBorderColor           #61afef
+
+
+
+
+  SequenceBoxBackgroundColor #424856
+  SequenceBoxBorderColor     #61afef
+
+
+  SequenceDividerBackgroundColor   #424856
+  SequenceDividerBorderColor       #abb2bf
+
+  SequenceGroupBackgroundColor       #424856
+  SequenceGroupBorderColor           #abb2bf
+
+  SequenceLifeLineBackgroundColor   #282c34
+  SequenceLifeLineBorderColor       #61afef
+
+  SequenceNewpageSeparatorColor  #abb2bf
+
+
+  SequenceReferenceBackgroundColor        transparent
+  SequenceReferenceBorderColor            #abb2bf
+  SequenceReferenceHeaderBackgroundColor #424856
+
+
+  Shadowing false
+
+  StackBackgroundColor       #424856
+  StackBorderColor           #61afef
+
+
+  StateBackgroundColor    #424856
+  StateBorderColor        #61afef
+  StateEndColor           #e06c75
+  StateStartColor         #98c379
+
+
+  StorageBackgroundColor #424856
+  StorageBorderColor     #abb2bf
+
+
+  SwimlaneBorderColor            #abb2bf
+
+
+
+
+  UsecaseBackgroundColor       #424856
+  UsecaseBorderColor           #61afef
+
+}
+
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList : AList to List
+Collection <|- - AbstractCollection : AColl to Coll
+
+Collection <|- List : List to Coll
+AbstractCollection <|- AbstractList : AList to AColl
+AbstractList <|- - ArrayList : ArList to AList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+annotation Annotation {
+  annotation with members
+  String foo()
+  String bar()
+}
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 11:12:26 PDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

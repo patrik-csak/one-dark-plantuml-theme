@@ -28,24 +28,24 @@ Bob->Alice : hello
 
 Sequence diagram:
 
-![PlantUML sequence diagram with One Dark theme](examples/sequence.png)
+![PlantUML sequence diagram with One Dark theme](examples/sequence.svg)
 
 Use case diagram:
 
-![PlantUML use case diagram with One Dark theme](examples/use-case.png)
+![PlantUML use case diagram with One Dark theme](examples/use-case.svg)
 
 Class diagram:
 
-![PlantUML class diagram with One Dark Theme](examples/class.png)
+![PlantUML class diagram with One Dark Theme](examples/class.svg)
 
 Activity diagram:
 
-![PlantUML activity diagram with One Dark theme](examples/activity.png)
+![PlantUML activity diagram with One Dark theme](examples/activity.svg)
 
 Component diagram:
 
-![PlantUML component diagram with One Dark theme](examples/component.png)
+![PlantUML component diagram with One Dark theme](examples/component.svg)
 
 State diagram:
 
-![PlantUML state diagram with One Dark theme](examples/state.png)
+![PlantUML state diagram with One Dark theme](examples/state.svg)

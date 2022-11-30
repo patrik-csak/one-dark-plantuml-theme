@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="388px" preserveAspectRatio="none" style="width:314px;height:388px;background:#282C34;" version="1.1" viewBox="0 0 314 388" width="314px" zoomAndPan="magnify"><defs/><g><!--MD5=[fb1b454ac1984f657a61539df0e47555]
+cluster Professional--><g id="cluster_Professional"><path d="M8.5,143 L99.5,143 A3.75,3.75 0 0 1 102,145.5 L109,165.4883 L110.5,165.4883 A2.5,2.5 0 0 1 113,167.9883 L113,378.5 A2.5,2.5 0 0 1 110.5,381 L8.5,381 A2.5,2.5 0 0 1 6,378.5 L6,145.5 A2.5,2.5 0 0 1 8.5,143 " fill="#282C34" style="stroke:#ABB2BF;stroke-width:1.5;"/><line style="stroke:#ABB2BF;stroke-width:1.5;" x1="6" x2="109" y1="165.4883" y2="165.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="90" x="10" y="158.5352">Professional</text></g><!--MD5=[bc938698130bec3721522f38f16e3aed]
+cluster Restaurant--><g id="cluster_Restaurant"><path d="M143.5,6 L222.5,6 A3.75,3.75 0 0 1 225,8.5 L232,28.4883 L304.5,28.4883 A2.5,2.5 0 0 1 307,30.9883 L307,280.5 A2.5,2.5 0 0 1 304.5,283 L143.5,283 A2.5,2.5 0 0 1 141,280.5 L141,8.5 A2.5,2.5 0 0 1 143.5,6 " fill="#282C34" style="stroke:#ABB2BF;stroke-width:1.5;"/><line style="stroke:#ABB2BF;stroke-width:1.5;" x1="141" x2="232" y1="28.4883" y2="28.4883"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="145" y="21.5352">Restaurant</text></g><!--MD5=[8e9b2d9d80e066cced8e5d90e9bdea61]
+entity c--><g id="elem_c"><ellipse cx="59.5" cy="186.5" fill="#424856" rx="8" ry="8" style="stroke:#61AFEF;stroke-width:0.5;"/><path d="M59.5,194.5 L59.5,221.5 M46.5,202.5 L72.5,202.5 M59.5,221.5 L46.5,236.5 M59.5,221.5 L72.5,236.5 " fill="none" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="32" x="43.5" y="251.5352">Chef</text></g><!--MD5=[db756db308cf6ff8cfeeb51570136b75]
+entity fc--><g id="elem_fc"><ellipse cx="59.5" cy="297.5" fill="#424856" rx="8" ry="8" style="stroke:#61AFEF;stroke-width:0.5;"/><path d="M59.5,305.5 L59.5,332.5 M46.5,313.5 L72.5,313.5 M59.5,332.5 L46.5,347.5 M59.5,332.5 L72.5,347.5 " fill="none" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="75" x="22" y="362.5352">Food Critic</text></g><g id="elem_UC1"><ellipse cx="224.2201" cy="56.2296" fill="#424856" rx="54.2201" ry="14.7296" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="60" x="191.2201" y="60.2472">Eat Food</text></g><g id="elem_UC2"><ellipse cx="224.2483" cy="121.8497" fill="#424856" rx="67.2483" ry="15.8497" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="86" x="178.2483" y="125.8672">Pay for Food</text></g><g id="elem_UC3"><ellipse cx="224.1482" cy="188.159" fill="#424856" rx="37.6482" ry="14.659" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="37" x="205.6482" y="191.45">Drink</text></g><g id="elem_UC4"><ellipse cx="224.2313" cy="252.1623" fill="#424856" rx="44.7313" ry="14.6623" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="47" x="200.025" y="255.6507">Review</text></g><!--MD5=[338e9af232e5abde8a6bc8ae9f528414]
+entity g--><g id="elem_g"><ellipse cx="59.5" cy="59.5" fill="#424856" rx="8" ry="8" style="stroke:#61AFEF;stroke-width:0.5;"/><path d="M59.5,67.5 L59.5,94.5 M46.5,75.5 L72.5,75.5 M59.5,94.5 L46.5,109.5 M59.5,94.5 L72.5,109.5 " fill="none" style="stroke:#61AFEF;stroke-width:0.5;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="39" x="40" y="124.5352">Guest</text></g><!--MD5=[671315809142cbf8f95afb4988884e94]
+link fc to UC4--><g id="link_fc_UC4"><path d="M97.37,309.98 C125.75,296.88 164.56,278.97 191.5,266.54 " fill="none" id="fc-to-UC4" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="196.02,264.45,186.1719,264.57,191.476,266.5362,189.5098,271.8404,196.02,264.45" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[e6283e10ea57013afd663a209f443892]
+link g to UC1--><g id="link_g_UC1"><path d="M79.46,85.15 C102.38,80.5 141.82,72.49 173.57,66.04 " fill="none" id="g-to-UC1" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="178.33,65.07,168.7179,62.9235,173.4282,66.0561,170.2956,70.7664,178.33,65.07" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[de7f95d11870be32e701ecd3c2a76950]
+link g to UC2--><g id="link_g_UC2"><path d="M79.46,92.85 C100.48,97.12 135.42,104.21 165.56,110.33 " fill="none" id="g-to-UC2" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="170.43,111.32,162.4116,105.6011,165.531,110.3202,160.8119,113.4396,170.43,111.32" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[ea36581ba262fe67fca98703761d6744]
+link g to UC3--><g id="link_g_UC3"><path d="M79.31,110.47 C92.99,124.98 112.61,143.67 133,156 C149.18,165.78 168.79,173.2 185.58,178.41 " fill="none" id="g-to-UC3" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="190.17,179.8,182.7077,173.3723,185.3828,178.3567,180.3985,181.0318,190.17,179.8" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[9d458d82be311666b07dd22c49ebdb72]
+@startuml
+
+!include ../theme.puml
+
+left to right direction
+actor Guest as g
+package Professional {
+  actor Chef as c
+  actor "Food Critic" as fc
+}
+package Restaurant {
+  usecase "Eat Food" as UC1
+  usecase "Pay for Food" as UC2
+  usecase "Drink" as UC3
+  usecase "Review" as UC4
+}
+fc - -> UC4
+g - -> UC1
+g - -> UC2
+g - -> UC3
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+skinparam backgroundColor #282c34
+
+skinparam {
+  ActivityBackgroundColor        #424856
+  ActivityBarColor               #abb2bf
+  ActivityBorderColor            #61afef
+  ActivityDiamondBackgroundColor #424856
+  ActivityDiamondBorderColor     #61afef
+  ActivityEndColor               #e06c75
+  ActivityStartColor             #98c379
+  ActivityStopColor              #e06c75
+
+  ActorBackgroundColor        #424856
+  ActorBorderColor            #61afef
+  ActorStereotypeFontColor    #abb2bf
+
+  AgentBackgroundColor       #424856
+  AgentBorderColor           #61afef
+
+
+  ArrowColor #61afef
+
+  ArtifactBackgroundColor     #424856
+  ArtifactBorderColor         #61afef
+
+  BackgroundColor #282c34
+
+
+  BoundaryBackgroundColor     #424856
+  BoundaryBorderColor         #61afef
+  BoundaryStereotypeFontColor #abb2bf
+
+
+  CaptionFontColor #abb2bf
+
+  CardBackgroundColor     #424856
+  CardBorderColor         #61afef
+
+
+
+  ClassBackgroundColor   #424856
+  ClassBorderColor       #abb2bf
+
+
+
+  CloudBackgroundColor        #424856
+  CloudBorderColor            #61afef
+
+  CollectionsBackgroundColor #424856
+  CollectionsBorderColor     #61afef
+
+
+  ComponentBackgroundColor       #424856
+  ComponentBorderColor           #61afef
+
+
+
+  ControlBackgroundColor #424856
+  ControlBorderColor     #61afef
+  ControlFontColor       #abb2bf
+  ControlStereotypeFontColor #abb2bf
+
+  DatabaseBackgroundColor       #424856
+  DatabaseBorderColor           #61afef
+
+  DefaultFontColor #abb2bf
+  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+
+
+
+
+
+
+
+  EntityBackgroundColor #424856
+  EntityBorderColor     #61afef
+
+
+  FileBackgroundColor #424856
+  FileBorderColor     #61afef
+
+
+
+  FolderBackgroundColor #424856
+  FolderBorderColor     #61afef
+
+
+  FrameBackgroundColor       #424856
+  FrameBorderColor           #61afef
+
+  HexagonBackgroundColor #424856
+  HexagonBorderColor     #61afef
+
+
+  InterfaceBackgroundColor       #424856
+  InterfaceBorderColor           #61afef
+
+  LegendBackgroundColor   #424856
+  LegendBorderColor       #abb2bf
+
+
+  NodeBackgroundColor       #424856
+  NodeBorderColor           #61afef
+
+
+  NoteBackgroundColor   #e5c07b
+  NoteBorderColor       #282c34
+  NoteFontColor         #282c34
+
+  ObjectBackgroundColor       #424856
+  ObjectBorderColor           #61afef
+
+  PackageBackgroundColor       #282c34
+  PackageBorderColor           #61afef
+
+
+  ParticipantBackgroundColor #424856
+  ParticipantBorderColor     #61afef
+
+  PartitionBackgroundColor transparent
+  PartitionBorderColor     #abb2bf
+
+
+  PersonBackgroundColor #424856
+  PersonBorderColor     #61afef
+
+  QueueBackgroundColor       #424856
+  QueueBorderColor           #61afef
+
+
+  RectangleBackgroundColor       #424856
+  RectangleBorderColor           #61afef
+
+
+
+
+  SequenceBoxBackgroundColor #424856
+  SequenceBoxBorderColor     #61afef
+
+
+  SequenceDividerBackgroundColor   #424856
+  SequenceDividerBorderColor       #abb2bf
+
+  SequenceGroupBackgroundColor       #424856
+  SequenceGroupBorderColor           #abb2bf
+
+  SequenceLifeLineBackgroundColor   #282c34
+  SequenceLifeLineBorderColor       #61afef
+
+  SequenceNewpageSeparatorColor  #abb2bf
+
+
+  SequenceReferenceBackgroundColor        transparent
+  SequenceReferenceBorderColor            #abb2bf
+  SequenceReferenceHeaderBackgroundColor #424856
+
+
+  Shadowing false
+
+  StackBackgroundColor       #424856
+  StackBorderColor           #61afef
+
+
+  StateBackgroundColor    #424856
+  StateBorderColor        #61afef
+  StateEndColor           #e06c75
+  StateStartColor         #98c379
+
+
+  StorageBackgroundColor #424856
+  StorageBorderColor     #abb2bf
+
+
+  SwimlaneBorderColor            #abb2bf
+
+
+
+
+  UsecaseBackgroundColor       #424856
+  UsecaseBorderColor           #61afef
+
+}
+
+
+left to right direction
+actor Guest as g
+package Professional {
+  actor Chef as c
+  actor "Food Critic" as fc
+}
+package Restaurant {
+  usecase "Eat Food" as UC1
+  usecase "Pay for Food" as UC2
+  usecase "Drink" as UC3
+  usecase "Review" as UC4
+}
+fc - -> UC4
+g - -> UC1
+g - -> UC2
+g - -> UC3
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 11:12:26 PDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
