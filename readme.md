@@ -1,8 +1,10 @@
 # [One Dark](https://github.com/atom/atom/tree/v1.53.0/packages/one-dark-ui) [PlantUML](https://plantuml.com) theme
 
-|||
-|---|---|
-| ![One Dark PlantUML theme in JetBrains IDE](docs/ide-screenshots/jetbrains.png) | ![One Dark PlantUML theme in VS Code](docs/ide-screenshots/vs-code.png) |
+## Screenshots
+
+| JetBrains | Visual Studio Code |
+|:---:|:---:|
+| ![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with One Dark PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png) | ![Screenshot of Visual Studio Code with PlantUML diagram code in left pane and diagram preview with One Dark PlantUML theme in right pane](docs/ide-screenshots/vs-code.png) |
 
 ## Usage
 
