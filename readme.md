@@ -2,9 +2,13 @@
 
 ## Screenshots
 
-| JetBrains | Visual Studio Code |
-|:---:|:---:|
-| ![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with One Dark PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png) | ![Screenshot of Visual Studio Code with PlantUML diagram code in left pane and diagram preview with One Dark PlantUML theme in right pane](docs/ide-screenshots/vs-code.png) |
+JetBrains:
+
+![Screenshot of WebStorm with PlantUML diagram code in left pane and diagram preview with One Dark PlantUML theme in right pane](docs/ide-screenshots/jetbrains.png)
+
+Visual Studio Code:
+
+![Screenshot of Visual Studio Code with PlantUML diagram code in left pane and diagram preview with One Dark PlantUML theme in right pane](docs/ide-screenshots/vs-code.png)
 
 ## Usage
 
@@ -22,10 +26,26 @@ Bob->Alice : hello
 
 ## Examples
 
-| Activity | Class | Component |
-|:---:|:---:|:---:|
-| ![PlantUML Activity diagram with One Dark theme](examples/activity.png) | ![PlantUML Class diagram with One Dark Theme](examples/class.png) | ![Component PlantUML diagram with One Dark theme](examples/component.png) |
+Sequence diagram:
 
-| Sequence | State | Use case |
-|:---:|:---:|:---:|
-| ![Sequence PlantUML diagram with One Dark theme](examples/sequence.png) | ![State PlantUML diagram with One Dark theme](examples/state.png) | ![Use case PlantUML diagram with One Dark theme](examples/use-case.png) |
+![PlantUML sequence diagram with One Dark theme](examples/sequence.png)
+
+Use case diagram:
+
+![PlantUML use case diagram with One Dark theme](examples/use-case.png)
+
+Class diagram:
+
+![PlantUML class diagram with One Dark Theme](examples/class.png)
+
+Activity diagram:
+
+![PlantUML activity diagram with One Dark theme](examples/activity.png)
+
+Component diagram:
+
+![PlantUML component diagram with One Dark theme](examples/component.png)
+
+State diagram:
+
+![PlantUML state diagram with One Dark theme](examples/state.png)
