@@ -17,7 +17,7 @@ Visual Studio Code:
 ```puml
 @startuml
 
-!include https://raw.githubusercontent.com/ptrkcsk/one-dark-plantuml-theme/v1.0.1/theme.puml
+!include https://raw.githubusercontent.com/patrik-csak/one-dark-plantuml-theme/v1.0.1/theme.puml
 
 Bob->Alice : hello
 
